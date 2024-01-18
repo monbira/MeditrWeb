@@ -36,3 +36,18 @@ a {
     color: #756158;
     font-style: italic;
 }
+
+<!--div {
+    background-color: #f9e3d0;
+}-->
+
+.nasTym,
+.kontakt {
+    background-color: #f9e3d0;
+}
+
+.paticka {
+    color: #ffffff;
+    background-color: #282425;
+    text-align: center;
+}
