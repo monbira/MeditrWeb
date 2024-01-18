@@ -20,9 +20,10 @@ h3 {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 100px;
     text-align: center;
-    color: black;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.8);
+    color: #00a86b;
     margin: 0;
 }
 
@@ -130,7 +131,7 @@ section {
 
 .hlavicka {
     padding: 107px 30px;
-    background-image: url(images/cely_tym.jpeg);
+    background-image: url(images/ordinace.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
